@@ -2,3 +2,8 @@ ipykernel
 notebook
 duckdb
 autopep8
+ipython-sql
+duckdb-engine
+pandas
+polars
+pyarrow
